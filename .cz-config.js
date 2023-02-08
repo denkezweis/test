@@ -10,7 +10,7 @@ module.exports = {
     },
     {
       value: 'init',
-      name: 'init: 初始化'
+      name: '⚡init: 初始化'
     },
     {
       value: ':pencil2: docs',
