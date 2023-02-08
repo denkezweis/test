@@ -2,8 +2,7 @@ module.exports = {
   types: [
     {
       value: 'feat',
-      emoji: '🐛',
-      name: '🤖feat: 新功能'
+      name: '🤖feat:🤖🤖 新功能'
     },
     {
       value: 'fix',
