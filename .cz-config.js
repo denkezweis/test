@@ -2,7 +2,7 @@ module.exports = {
   types: [
     {
       value: 'feat',
-      name: '🤖feat:🤖🤖 新功能'
+      name: ':fire:feat:🤖🤖 新功能'
     },
     {
       value: 'fix',
