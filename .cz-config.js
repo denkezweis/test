@@ -18,7 +18,7 @@ module.exports = {
     },
     {
       value: 'style',
-      name: 'style: 代码的样式美化'
+      name: ':rocket:style: 代码的样式美化'
     },
     {
       value: 'refactor',
