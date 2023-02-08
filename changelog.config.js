@@ -1,13 +1,13 @@
 module.exports = {
   "disableEmoji": false,
   "list": [
-    "test",
     "feat",
     "fix",
+    "style",
     "chore",
+    "test",
     "docs",
     "refactor",
-    "style",
     "ci",
     "perf"
   ],
@@ -20,7 +20,7 @@ module.exports = {
     "body",
     "breaking",
     "issues",
-    "lerna"
+    // "lerna"
   ],
   "scopes": [],
   "types": {
